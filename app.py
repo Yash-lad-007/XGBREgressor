@@ -8,7 +8,7 @@ import  os
 MODEL_FILE = "XGBRegressor.pkl"
 DATA_FILE = "Concrete_Data_Yeh.csv"
 
-# Set up the Streamlit page configuration
+# Set up the Streamlit page configuration 
 st.set_page_config(
     page_title="Concrete Strength Predictor",
     layout="wide",
