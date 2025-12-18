@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-import os
+import  os
 
 # Define file paths for the model and the data
 MODEL_FILE = "XGBRegressor.pkl"
