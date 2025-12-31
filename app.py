@@ -5,7 +5,7 @@ import pickle
 import  os 
   
 # Define file paths for the model and the data 
-MODEL_FILE = "XGBRegressor.pkl"
+MODEL_FILE = "XGBRegressor.pkl" 
 DATA_FILE = "Concrete_Data_Yeh.csv"   
 
 # Set up the Streamlit page configuration  
